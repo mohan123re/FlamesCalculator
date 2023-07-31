@@ -1,0 +1,28 @@
+h1,.main,#result{
+    text-align: center;
+} 
+h1{
+    padding: 10px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,.7)
+}
+.main,#result,.im{
+   border: 2px solid black; 
+   padding: 30px;
+   margin-left: 400px ;
+   margin-right: 400px;
+   margin-top: 10px;
+   box-shadow: 5px 5px 5px rgba(0,0,0,.7);
+   background-color: aliceblue;
+} 
+h1{
+    background-color: aquamarine;
+    margin: 10px;
+}
+#result{
+    text-decoration: solid;
+    background-color: beige;
+}
+.im{
+    height: 200px;
+    width: 280px;
+}
